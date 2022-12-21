@@ -1,0 +1,15 @@
+{
+  "name": "serverless-typescript-worker",
+  "version": "1.0.0",
+  "description": "Serverless Framework Node SQS Producer-Consumer on AWS",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.108",
+    "aws-lambda": "^1.0.7",
+    "serverless-lift": "^1.1.2",
+    "serverless-plugin-typescript": "^2.1.4",
+    "source-map-support": "^0.5.21"
+  },
+  "dependencies": {}
+}
